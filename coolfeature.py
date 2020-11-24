@@ -5,3 +5,8 @@ def get_coolfeature():
 
 def get_epicfeature():
     return "This is an epic feature!"
+def confusing():
+    return "Confusing Git is great fun!"
+
+def giraffe():
+    return "Not really sure why this is here"
